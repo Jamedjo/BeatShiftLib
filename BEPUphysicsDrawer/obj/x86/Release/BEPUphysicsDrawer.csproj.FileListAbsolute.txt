@@ -1,0 +1,6 @@
+C:\Users\will\Desktop\BEPUphysicsDemos\BEPUphysicsDrawer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\will\Desktop\BEPUphysicsDemos\BEPUphysicsDrawer\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\will\Desktop\BEPUphysicsDemos\BEPUphysicsDrawer\bin\x86\Release\BEPUphysicsDrawer.dll
+C:\Users\will\Desktop\BEPUphysicsDemos\BEPUphysicsDrawer\bin\x86\Release\BEPUphysics.dll
+C:\Users\will\Desktop\BEPUphysicsDemos\BEPUphysicsDrawer\bin\x86\Release\BEPUphysics.xml
+C:\Users\will\Desktop\BEPUphysicsDemos\BEPUphysicsDrawer\obj\x86\Release\BEPUphysicsDrawer.dll

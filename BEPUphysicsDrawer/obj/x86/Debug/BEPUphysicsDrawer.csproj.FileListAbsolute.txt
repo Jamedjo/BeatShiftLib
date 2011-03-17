@@ -1,0 +1,8 @@
+D:\Users\Student\Documents\Visual Studio 2010\Projects\rafikiracing2011\trunk\lib\BEPUphysicsDrawer\bin\x86\Debug\BEPUphysicsDrawer.dll
+D:\Users\Student\Documents\Visual Studio 2010\Projects\rafikiracing2011\trunk\lib\BEPUphysicsDrawer\bin\x86\Debug\BEPUphysicsDrawer.pdb
+D:\Users\Student\Documents\Visual Studio 2010\Projects\rafikiracing2011\trunk\lib\BEPUphysicsDrawer\bin\x86\Debug\BEPUphysics.dll
+D:\Users\Student\Documents\Visual Studio 2010\Projects\rafikiracing2011\trunk\lib\BEPUphysicsDrawer\bin\x86\Debug\BEPUphysics.xml
+D:\Users\Student\Documents\Visual Studio 2010\Projects\rafikiracing2011\trunk\lib\BEPUphysicsDrawer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Student\Documents\Visual Studio 2010\Projects\rafikiracing2011\trunk\lib\BEPUphysicsDrawer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\Student\Documents\Visual Studio 2010\Projects\rafikiracing2011\trunk\lib\BEPUphysicsDrawer\obj\x86\Debug\BEPUphysicsDrawer.dll
+D:\Users\Student\Documents\Visual Studio 2010\Projects\rafikiracing2011\trunk\lib\BEPUphysicsDrawer\obj\x86\Debug\BEPUphysicsDrawer.pdb
