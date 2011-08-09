@@ -1,1 +1,5 @@
 glob:BEPUphysics/WindowsPhone/
+glob:SkinnedModel/bin/Xbox 360/Debug/*
+glob:SkinnedModel/bin/x86/Debug/*
+glob:SkinnedModel/obj/Xbox 360/Debug/*
+glob:SkinnedModel/obj/x86/Debug/*
